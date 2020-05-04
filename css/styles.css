@@ -92,7 +92,7 @@ p {
   padding-right: 0;
 }
 
-@media (max-width: 1045px){
+@media (max-width: 1500px){
   #title{
     text-align: center;
   }
