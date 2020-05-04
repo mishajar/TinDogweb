@@ -92,13 +92,14 @@ p {
   padding-right: 0;
 }
 
-@media (max-width: 1500px){
-  #title{
+@media (max-width: 1045px){
+  #title .container-fluid {
     text-align: center;
   }
   .title-image{
     position: static;
     transform: rotate(0);
+    text-align: center;
   }
 }
 
