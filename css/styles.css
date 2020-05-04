@@ -31,9 +31,6 @@ p {
   background-color: #ef8172;
 }
 
-#press.colored-section {
-  background-color: #ef8172;
-}
 
 
 
@@ -136,7 +133,7 @@ p {
 }
 
 /* Press */
-#press {
+.press {
   padding-bottom: 3%;
 }
 
